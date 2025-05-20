@@ -74,6 +74,12 @@ e.printStackTrace();
 
 /**
 * Create the frame.
+* prueba
+* dadad
+* 
+* da
+* da
+* dd
  * @return 
 */
 public void calculadora() {
